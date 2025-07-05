@@ -24,4 +24,7 @@ Me interesa crear soluciones claras, organizadas y fáciles de mantener. Ahora m
 
 > Si compartimos intereses o tienes sugerencias, estaré encantado de conectar.
 >
-> [![](https://img.shields.io/badge/LinkedIn-Mariano_Carrillo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marianocgarcia/)
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mariano_Carrillo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marianocgarcia/)
+> [![Mail](https://img.shields.io/badge/marianocgarcia@hotmail.com-05054B?style=for-the-badge&logo=mailbox.org&logoColor=white&labelColor=101010)](mailto:marianocgarcia@hotmail.com)
+>
+> 
